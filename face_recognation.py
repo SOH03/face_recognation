@@ -3,7 +3,7 @@ import face_recognition
 import numpy as np
 import os
 
-path=r"F:\0PENCV\pic"
+path=r""  #specify your path here"
 images=[]
 classes=[]
 pathlist=os.listdir(path=path)
